@@ -17,7 +17,3 @@ Le but de cet outil est de parser `/proc/[PID]/maps` pour identifier, s'attacher
 
 Le projet utilise un `Makefile` standard.
 
-```bash
-git clone [https://github.com/ton-utilisateur/SHM-scanner.git](https://github.com/ton-utilisateur/SHM-scanner.git)
-cd SHM-scanner
-make
